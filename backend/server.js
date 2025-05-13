@@ -1,3 +1,4 @@
+// server entry point
 import express from 'express';
 import { scheduleJobs } from './scheduler.js';
 import {
